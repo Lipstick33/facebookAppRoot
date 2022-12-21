@@ -9,7 +9,7 @@ import com.restfb.FacebookClient;
 import com.restfb.Version;
 import com.restfb.exception.FacebookOAuthException;
 import com.restfb.types.Photo;
-import com.restfb.types.User;
+import com.restfb.types.User;CFlex70
 import utils.DiskUtils;
 
 import java.io.File;
